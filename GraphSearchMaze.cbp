@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GraphSearchMaze" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="GraphSearchMaze" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="DataTypesMaze.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GraphSearchMaze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GraphSearchMaze.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HashTableMaze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HashTableMaze.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SpesificToMaze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="StandardSearchMaze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
