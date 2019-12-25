@@ -1,1 +1,2 @@
-# Searching_Algorithms
+Graph Search Algorithms 
+
